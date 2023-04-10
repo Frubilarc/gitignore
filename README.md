@@ -1,0 +1,2 @@
+# gitignore
+Jugando con gitignore
