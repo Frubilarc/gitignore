@@ -6,4 +6,4 @@ archivo5.txt
 bin/
 
 #Ignore todos .tmp files
-*.tmp   
+*.tmp
